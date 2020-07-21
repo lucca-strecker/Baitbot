@@ -1,7 +1,13 @@
 BAITBOT - Antiscambot
 ====================
 
-Baitbot is a system, created to communicate with scammers. Baitbot aims to waste time and therefore tries to bind the scammers to endless/useless conversations.
+Baitbot is an anti-scam email service, created to waste scammers time. Forward scam emails you got
+to baitbot.ai@gmail.com and add :BB: in the subject field. Baitbot will now start mesaging the scammer
+and you will get a code. Use this code at www.baitbot.glitch.me to check the conversation the bot
+now has with your scammer.
+
+
+
 
 **Source Code from this Github project:**
 👀 [github.com/b-g/simple-survey-server](https://github.com/b-g/simple-survey-server)
