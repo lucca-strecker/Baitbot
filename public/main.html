@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>Baibot-Mail</title>
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <link rel="stylesheet" href="/style.css" />
+</head>
+
+<body>
+
+  <header>
+    <h1 class="text-center">
+      BAITBOT
+    </h1>
+    <h2 class="text-center">
+      Your Conversations
+    </h2>
+  </header>
+
+  <main>
+    <div class="content">
+
+      <div class="inputfield">
+
+
+        <div class="timernextmessage">
+          <span class="timermessage"> NEXT MESSAGE</span>
+          <p id="timer"></p>
+        </div>
+
+
+
+
+        <form>
+          <input id="scam" type="text" maxlength="1000" placeholder="You can stage an individual message here.." />
+
+          <button type="submit">➤</button>
+        </form>
+      </div>
+
+
+
+      <div class="speechbubble1">
+        <ul id="input"></ul>
+        <span class="username">Your Input</span>
+      </div>
+
+
+
+      <div class="speechbubble2">
+        <ul id="answer"></ul>
+        <span class="username">The Bots Answer</span>
+      </div>
+
+
+  </main>
+
+  <script src="https://button.glitch.me/button.js"></script>
+  <div class="glitchButton" style="position:fixed;top:20px;right:20px;"></div>
+
+
+  <!-- Your web-app is https, so your scripts need to be too -->
+  <script src="https://code.jquery.com/jquery-2.2.1.min.js" integrity="sha256-gvQgAFzTH6trSrAWoH1iPo9Xc96QxSZ3feW6kem+O00=" crossorigin="anonymous"></script>
+  <script src="/client.js"></script>
+</body>
+
+</html>

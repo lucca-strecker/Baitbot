@@ -1,0 +1,1121 @@
+[{
+    "text": "",
+    "category": ""
+  },
+  {
+    "text": "Hello my friend",
+    "category": "greeting"
+  },
+  {
+    "text": "Hello there",
+    "category": "greeting"
+  },
+  {
+    "text": "Hey mate",
+    "category": "greeting"
+  },
+  {
+    "text": "Good day sir",
+    "category": "greeting"
+  },
+  {
+    "text": "Hi there",
+    "category": "greeting"
+  },
+  {
+    "text": "Hi",
+    "category": "greeting"
+  },
+  {
+    "text": "What's up?",
+    "category": "greeting"
+  },
+  {
+    "text": "Hello",
+    "category": "greeting"
+  },
+  {
+    "text": "Hello Sir",
+    "category": "greeting"
+  },
+  {
+    "text": "Hello Madam",
+    "category": "greeting"
+  },
+  {
+    "text": "hello",
+    "category": "greeting"
+  },
+  {
+    "text": "Greetings",
+    "category": "greeting"
+  },
+  {
+    "text": "Attention",
+    "category": "greeting"
+  },
+  {
+    "text": "Dear",
+    "category": "greeting"
+  },
+  {
+    "text": "Dear Sir",
+    "category": "greeting"
+  },
+  {
+    "text": "Dear Madam",
+    "category": "greeting"
+  },
+  {
+    "text": "Dear winner",
+    "category": "greeting"
+  },
+  {
+    "text": "Dear User",
+    "category": "greeting"
+  },
+  {
+    "text": "Dear Customer",
+    "category": "greeting"
+  },
+  {
+    "text": "Dear Beloved",
+    "category": "greeting"
+  },
+  {
+    "text": "Beloved",
+    "category": "greeting"
+  },
+  {
+    "text": "Dear lucky winner",
+    "category": "greeting"
+  },
+  {
+    "text": "Hello friend",
+    "category": "greeting"
+  },
+  {
+    "text": "Good morning",
+    "category": "greeting"
+  },
+  {
+    "text": "Good evening",
+    "category": "greeting"
+  },
+  {
+    "text": "Good afternoon",
+    "category": "greeting"
+  },
+  {
+    "text": "Dear email winner",
+    "category": "greeting"
+  },
+  {
+    "text": "Dear staff",
+    "category": "greeting"
+  },
+  {
+    "text": "Dear Client",
+    "category": "greeting"
+  },
+  {
+    "text": "Greetings Candidate",
+    "category": "greeting"
+  },
+
+
+
+
+
+
+
+  {
+    "text": "Who you?",
+    "category": "name"
+  },
+  {
+    "text": "Who are you to be called?",
+    "category": "name"
+  },
+  {
+    "text": "Who am I talking to?",
+    "category": "name"
+  },
+  {
+    "text": "Who is this?",
+    "category": "name"
+  },
+  {
+    "text": "Who?",
+    "category": "name"
+  },
+  {
+    "text": "What can I call you?",
+    "category": "name"
+  },
+  {
+    "text": "Your name?",
+    "category": "name"
+  },
+  {
+    "text": "Can you tell me your name?",
+    "category": "name"
+  },
+  {
+    "text": "Are you there?",
+    "category": "name"
+  },
+  {
+    "text": "Any one there?",
+    "category": "name"
+  },
+  {
+    "text": "What is your name?",
+    "category": "name"
+  },
+  {
+    "text": "Are you",
+    "category": "name"
+  },
+  {
+    "text": "Is anyone there?",
+    "category": "name"
+  },
+  {
+    "text": "Your name is?",
+    "category": "name"
+  },
+  {
+    "text": "Who is chatting?",
+    "category": "name"
+  },
+  {
+    "text": "Tell me about your self?",
+    "category": "name"
+  },
+  {
+    "text": "Who am I chatting with?",
+    "category": "name"
+  },
+  {
+    "text": "What's your name?",
+    "category": "name"
+  },
+  {
+    "text": "What should I say as your name?",
+    "category": "name"
+  },
+  {
+    "text": "Tell me your name?",
+    "category": "name"
+  },
+  {
+    "text": "What are you called?",
+    "category": "name"
+  },
+  {
+    "text": "Who are you?",
+    "category": "name"
+  },
+  {
+    "text": "What can I call you?",
+    "category": "name"
+  },
+  {
+    "text": "Your name?",
+    "category": "name"
+  },
+  {
+    "text": "What is your name?",
+    "category": "name"
+  },
+  {
+    "text": "Can you tell me your name?",
+    "category": "name"
+  },
+  {
+    "text": "Whats your name?",
+    "category": "name"
+  },
+  {
+    "text": "I need your name.",
+    "category": "name"
+  },
+  {
+    "text": "Your name is?",
+    "category": "name"
+  },
+  {
+    "text": "Who am I talking with?",
+    "category": "name"
+  },
+  {
+    "text": "Who am I talking to?",
+    "category": "name"
+  },
+  {
+    "text": "What's your name?",
+    "category": "name"
+  },
+  {
+    "text": "What should I say as your name?",
+    "category": "name"
+  },
+  {
+    "text": "Tell me your name?",
+    "category": "name"
+  },
+  {
+    "text": "What are you called?",
+    "category": "name"
+  },
+  {
+    "text": "What do people call you?",
+    "category": "name"
+  },
+  {
+    "text": "How do people call you?",
+    "category": "name"
+  },
+  {
+    "text": "How I call you?",
+    "category": "name"
+  },
+  {
+    "text": "What your name?",
+    "category": "name"
+  },
+
+
+
+
+
+
+
+
+  {
+    "text": "I am the manager",
+    "category": "commonQ.job"
+  },
+  {
+    "text": "I manage",
+    "category": "commonQ.job"
+  },
+  {
+    "text": "I am the boss",
+    "category": "commonQ.job"
+  },
+  {
+    "text": "I operate ",
+    "category": "commonQ.job"
+  },
+  {
+    "text": "I run",
+    "category": "commonQ.job"
+  },
+  {
+    "text": "We run",
+    "category": "commonQ.job"
+  },
+  {
+    "text": "I am the son of",
+    "category": "commonQ.job"
+  },
+  {
+    "text": "I am the daugther of",
+    "category": "commonQ.job"
+  },
+  {
+    "text": "I am prince",
+    "category": "commonQ.job"
+  },
+  {
+    "text": "I am the prince",
+    "category": "commonQ.job"
+  },
+  {
+    "text": "My father is the king",
+    "category": "commonQ.job"
+  },
+  {
+    "text": "My father is the prince ",
+    "category": "commonQ.job"
+  },
+  {
+    "text": "My mother is the queen",
+    "category": "commonQ.job"
+  },
+  {
+    "text": "My mother is the princess",
+    "category": "commonQ.job"
+  },
+  {
+    "text": "I am the leader of",
+    "category": "commonQ.job"
+  },
+  {
+    "text": "My father is the leader",
+    "category": "commonQ.job"
+  },
+  {
+    "text": "My mother is the leader",
+    "category": "commonQ.job"
+  },
+  {
+    "text": "My brother is the leader",
+    "category": "commonQ.job"
+  },
+  {
+    "text": "My sister is the leader",
+    "category": "commonQ.job"
+  },
+  {
+    "text": "I have a office ",
+    "category": "commonQ.job"
+  },
+  {
+    "text": "We are a company ",
+    "category": "commonQ.job"
+  },
+  {
+    "text": "I have a farm",
+    "category": "commonQ.job"
+  },
+  {
+    "text": "My partners and I have",
+    "category": "commonQ.job"
+  },
+  {
+    "text": "I have a mine",
+    "category": "commonQ.job"
+  }, {
+    "text": "I run a farm",
+    "category": "commonQ.job"
+  },
+  {
+    "text": "I run a mine",
+    "category": "commonQ.job"
+  },
+  {
+    "text": "I look for models",
+    "category": "commonQ.job"
+  },
+  {
+    "text": "Work for a model agency ",
+    "category": "commonQ.job"
+  },
+  {
+    "text": "My parents have a  ",
+    "category": "commonQ.job"
+  },
+
+
+
+
+
+
+
+  {
+    "text": "I have a great opportunity.",
+    "category": "offer"
+  },
+  {
+    "text": "I have a great offer.",
+    "category": "offer"
+  },
+  {
+    "text": "I have a big opportunity.",
+    "category": "offer"
+  },
+  {
+    "text": "I have a big offer.",
+    "category": "offer"
+  },
+  {
+    "text": "You have won",
+    "category": "offer"
+  },
+  {
+    "text": "You won",
+    "category": "offer"
+  },
+  {
+    "text": "You can win",
+    "category": "offer"
+  },
+  {
+    "text": "Were selected for",
+    "category": "offer"
+  },
+  {
+    "text": "Inform you of a win",
+    "category": "offer"
+  },
+  {
+    "text": "We need your help",
+    "category": "offer"
+  },
+  {
+    "text": "I need your help",
+    "category": "offer"
+  },
+  {
+    "text": "We need help",
+    "category": "offer"
+  },
+  {
+    "text": "I need help",
+    "category": "offer"
+  },
+  {
+    "text": "What the problem is",
+    "category": "offer"
+  },
+  {
+    "text": "Have a problem",
+    "category": "offer"
+  },
+  {
+    "text": "Please help us",
+    "category": "offer"
+  },
+  {
+    "text": "Please help me",
+    "category": "offer"
+  },
+  {
+    "text": "Please visit",
+    "category": "offer"
+  },
+  {
+    "text": "Business proposal.",
+    "category": "offer"
+  },
+  {
+    "text": "Business offer.",
+    "category": "offer"
+  },
+
+
+
+
+
+
+
+  {
+    "text": "How are things?",
+    "category": "wellbeing"
+  },
+  {
+    "text": "How are things going?",
+    "category": "wellbeing"
+  },
+  {
+    "text": "How r you?",
+    "category": "wellbeing"
+  },
+  {
+    "text": "How are you doing?",
+    "category": "wellbeing"
+  },
+  {
+    "text": "I hope all is well.",
+    "category": "wellbeing"
+  },
+  {
+    "text": "We hope all is well.",
+    "category": "wellbeing"
+  },
+  {
+    "text": "I hope all is well with you.",
+    "category": "wellbeing"
+  },
+  {
+    "text": "We hope all is well with you.",
+    "category": "wellbeing"
+  },
+  {
+    "text": "I hope this message finds you well.",
+    "category": "wellbeing"
+  },
+  {
+    "text": "We hope this message finds you well.",
+    "category": "wellbeing"
+  },
+  {
+    "text": "Hope your are alright.",
+    "category": "wellbeing"
+  },
+  {
+    "text": "Hope your are doing good.",
+    "category": "wellbeing"
+  },
+  {
+    "text": "Are you good?",
+    "category": "wellbeing"
+  },
+  {
+    "text": "Are you ok?",
+    "category": "wellbeing"
+  },
+
+
+
+
+
+
+
+  {
+    "text": "Need help",
+    "category": "assist"
+  },
+  {
+    "text": "I need some info",
+    "category": "assist"
+  },
+  {
+    "text": "Will you help me?",
+    "category": "assist"
+  },
+  {
+    "text": "What do you do?",
+    "category": "assist"
+  },
+  {
+    "text": "Can you help me with?",
+    "category": "assist"
+  },
+  {
+    "text": "Need help plz",
+    "category": "assist"
+  },
+  {
+    "text": "Need help pls",
+    "category": "assist"
+  },
+  {
+    "text": "I need your help.",
+    "category": "assist"
+  },
+
+  {
+    "text": "We need your help.",
+    "category": "assist"
+  },
+  {
+    "text": "Can you help me?",
+    "category": "assist"
+  },
+  {
+    "text": "How can you help me?",
+    "category": "assist"
+  },
+  {
+    "text": "Can you assist me",
+    "category": "assist"
+  },
+  {
+    "text": "Can you assist us",
+    "category": "assist"
+  },
+  {
+    "text": "Help me please.",
+    "category": "assist"
+  },
+  {
+    "text": "Help us please.",
+    "category": "assist"
+  },
+  {
+    "text": "We need help from you",
+    "category": "assist"
+  },
+  {
+    "text": "We need your assistance",
+    "category": "assist"
+  },
+  {
+    "text": "We need assisstance",
+    "category": "assist"
+  },
+  {
+    "text": "I need your assisstance",
+    "category": "assist"
+  },
+  {
+    "text": "I need assistance",
+    "category": "assist"
+  },
+  {
+    "text": "We need your support",
+    "category": "assist"
+  },
+  {
+    "text": "I need your support",
+    "category": "assist"
+  },
+
+
+
+
+
+
+  {
+    "text": "Where do you live?",
+    "category": "location"
+  },
+  {
+    "text": "You from where?",
+    "category": "location"
+  },
+  {
+    "text": "Where are you located?",
+    "category": "location"
+  },
+  {
+    "text": "What is your location?",
+    "category": "location"
+  },
+  {
+    "text": "Where are you from?",
+    "category": "location"
+  },
+  {
+    "text": "What country do you live in?",
+    "category": "location"
+  },
+  {
+    "text": "What country are you from?",
+    "category": "location"
+  },
+  {
+    "text": "Where you from?",
+    "category": "location"
+  },
+  {
+    "text": "You live where?",
+    "category": "location"
+  },
+  {
+    "text": "Where u from?",
+    "category": "location"
+  },
+  {
+    "text": "What continent are you from?",
+    "category": "location"
+  },
+  {
+    "text": "Are you from America?",
+    "category": "location"
+  },
+  {
+    "text": "Are you from USA?",
+    "category": "location"
+  },
+  {
+    "text": "Are you from England?",
+    "category": "location"
+  },
+  {
+    "text": "Are you from Germany?",
+    "category": "location"
+  },
+  {
+    "text": "Are you from Spain?",
+    "category": "location"
+  },
+  {
+    "text": "Are you from France?",
+    "category": "location"
+  },
+  {
+    "text": "We need your location.",
+    "category": "location"
+  },
+  {
+    "text": "You need to tell us where you are.",
+    "category": "location"
+  },
+  {
+    "text": "I need your location.",
+    "category": "location"
+  },
+  {
+    "text": "I need to know where you are located.",
+    "category": "location"
+  },
+  {
+    "text": "You need to send us your adress.",
+    "category": "location"
+  },
+  {
+    "text": "Send us full adress.",
+    "category": "location"
+  },
+  {
+    "text": "Send me your full adress.",
+    "category": "location"
+  },
+
+
+
+
+
+
+
+
+
+  {
+    "text": "Is this a bot?",
+    "category": "commonQ.bot"
+  },
+  {
+    "text": "Is there a bot chatting to me?",
+    "category": "commonQ.bot"
+  },
+  {
+    "text": "Are you robot?",
+    "category": "commonQ.bot"
+  },
+  {
+    "text": "Are you a machine?",
+    "category": "commonQ.bot"
+  },
+  {
+    "text": "Are you just a computer?",
+    "category": "commonQ.bot"
+  },
+  {
+    "text": "Are you a robot?",
+    "category": "commonQ.bot"
+  },
+  {
+    "text": "Are you a machine?",
+    "category": "commonQ.bot"
+  },
+  {
+    "text": "Are you a chatbot?",
+    "category": "commonQ.bot"
+  },
+  {
+    "text": "Are you a bot?",
+    "category": "commonQ.bot"
+  },
+  {
+    "text": "Are these automated messages?",
+    "category": "commonQ.bot"
+  },
+  {
+    "text": "Am I talking to a bot?",
+    "category": "commonQ.bot"
+  },
+  {
+    "text": "This is a machine?",
+    "category": "commonQ.bot"
+  },
+  {
+    "text": "This is a chatbot?",
+    "category": "commonQ.bot"
+  },
+  {
+    "text": "System generated reply",
+    "category": "commonQ.bot"
+  },
+  {
+    "text": "Is this a machine?",
+    "category": "commonQ.bot"
+  },
+  {
+    "text": "Are you a human?",
+    "category": "commonQ.bot"
+  },
+  {
+    "text": "Hows life?",
+    "category": "commonQ.how"
+  },
+  {
+    "text": "How was your day?",
+    "category": "commonQ.how"
+  },
+  {
+    "text": "How you doin?",
+    "category": "commonQ.how"
+  },
+  {
+    "text": "Whats up?",
+    "category": "commonQ.how"
+  },
+  {
+    "text": "What's happening?",
+    "category": "commonQ.how"
+  },
+  {
+    "text": "Kya chal raha?",
+    "category": "commonQ.how"
+  },
+  {
+    "text": "Wassup?",
+    "category": "commonQ.how"
+  },
+  {
+    "text": "How you doing?",
+    "category": "commonQ.how"
+  },
+  {
+    "text": "Are you fine?",
+    "category": "commonQ.how"
+  },
+  {
+    "text": "Are you good?",
+    "category": "commonQ.how"
+  },
+  {
+    "text": "How are you?",
+    "category": "commonQ.how"
+  },
+  {
+    "text": "How are you doing?",
+    "category": "commonQ.how"
+  },
+  {
+    "text": "How are you?",
+    "category": "commonQ.how"
+  },
+  {
+    "text": "Only providing my number",
+    "category": "details"
+  },
+  {
+    "text": "Only providing my email",
+    "category": "details"
+  },
+  {
+    "text": "Only providing my contact details",
+    "category": "details"
+  },
+  {
+    "text": "Only here to give my contact",
+    "category": "details"
+  },
+  {
+    "text": "i am just here to provide my number",
+    "category": "details"
+  },
+  {
+    "text": "i am just here to provide my details",
+    "category": "details"
+  },
+  {
+    "text": "Where are you from?",
+    "category": "location"
+  },
+  {
+    "text": "Where do you live?",
+    "category": "location"
+  },
+  {
+    "text": "You from where?",
+    "category": "location"
+  },
+  {
+    "text": "Where are you located?",
+    "category": "location"
+  },
+  {
+    "text": "What is your location?",
+    "category": "location"
+  },
+
+
+
+
+
+
+
+  {
+    "text": "Someone tried to log in to your account",
+    "category": "log_in"
+  },
+  {
+    "text": "Your account has been accessed unusually",
+    "category": "log_in"
+  },
+  {
+    "text": "Visit and log in using your password",
+    "category": "log_in"
+  },
+  {
+    "text": "Use your user ID and password to log in",
+    "category": "log_in"
+  },
+  {
+    "text": "Use the following code to confirm your identity.",
+    "category": "log_in"
+  },
+  {
+    "text": "You need to create a account.",
+    "category": "log_in"
+  },
+  {
+    "text": "Please log in to your account.",
+    "category": "log_in"
+  },
+  {
+    "text": "Try logging in to ",
+    "category": "log_in"
+  },
+
+
+
+
+  {
+    "text": "Transfer the money to our bank account",
+    "category": "send_money"
+  },
+  {
+    "text": "Send us the money to continue",
+    "category": "send_money"
+  },
+  {
+    "text": "Send me the money to continue",
+    "category": "send_money"
+  },
+  {
+    "text": "Transfer the money to my partner",
+    "category": "send_money"
+  },
+  {
+    "text": "Send us the funds",
+    "category": "send_money"
+  },
+  {
+    "text": "Send the money to",
+    "category": "send_money"
+  },
+  {
+    "text": "Transfer in bitcoin",
+    "category": "send_money"
+  },
+
+
+  {
+    "text": "Buy gift card and send it to ",
+    "category": "send_gift"
+  },
+  {
+    "text": "Please send us the money in gift cards",
+    "category": "send_gift"
+  },
+  {
+    "text": "We only accept gift cards",
+    "category": "send_gift"
+  },
+  {
+    "text": "Buy giftcard and send it to ",
+    "category": "send_gift"
+  },
+  {
+    "text": "Please send us the money in giftcards",
+    "category": "send_gift"
+  },
+  {
+    "text": "We only accept giftcards",
+    "category": "send_gift"
+  },
+  {
+    "text": "Accept giftcards",
+    "category": "send_gift"
+  },
+  {
+    "text": "Accept gift cards",
+    "category": "send_gift"
+  },
+  {
+    "text": "Only use giftcards",
+    "category": "send_gift"
+  },
+  {
+    "text": "Only use gift cards",
+    "category": "send_gift"
+  },
+
+
+
+
+  {
+    "text": "My attorney is",
+    "category": "legal"
+  },
+  {
+    "text": "My lawyer is",
+    "category": "legal"
+  },
+  {
+    "text": "Contact my lawyer",
+    "category": "legal"
+  },
+  {
+    "text": "If you want the funds contact my lawyer",
+    "category": "legal"
+  },
+  {
+    "text": "Lawyer will contact you",
+    "category": "legal"
+  },
+  {
+    "text": "Our lawyers need to",
+    "category": "legal"
+  },
+  {
+    "text": "We need lawyer",
+    "category": "legal"
+  },
+
+
+
+
+  {
+    "text": "Wait for two minutes",
+    "category": "commonQ.wait"
+  },
+  {
+    "text": "will you please wait",
+    "category": "commonQ.wait"
+  },
+  {
+    "text": "Can you  please wait",
+    "category": "commonQ.wait"
+  },
+  {
+    "text": "Please wait",
+    "category": "commonQ.wait"
+  },
+  {
+    "text": "Wait for some time",
+    "category": "commonQ.wait"
+  },
+  {
+    "text": "Want you to wait for me",
+    "category": "commonQ.wait"
+  },
+  {
+    "text": "Can you wait for minutes",
+    "category": "commonQ.wait"
+  },
+  {
+    "text": "want sell gold?",
+    "category": "sell.gold"
+  },
+  {
+    "text": "Do you want to sell some gold?",
+    "category": "sell.gold"
+  },
+  {
+    "text": "want buy gold?",
+    "category": "buy.gold"
+  },
+  {
+    "text": "Do you want to buy some gold?",
+    "category": "buy.gold"
+  }
+]

@@ -1,0 +1,85 @@
+<!--Correct username: invitado / pass: hgm2015-->
+
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Baitbot</title>
+  <link rel="stylesheet" href="/loginStyle.css" />
+  <script src="https://code.jquery.com/jquery-2.2.1.min.js" integrity="sha256-gvQgAFzTH6trSrAWoH1iPo9Xc96QxSZ3feW6kem+O00=" crossorigin="anonymous"></script>
+  <script src="/login.js"></script>
+
+</head>
+
+
+
+<body>
+
+  <div class="navigationbar">
+
+    <div class="leftnavbar">
+      <!-- <img class="botpic" src="bot.svg" /></img> -->
+      <img class="botpic2" src="Logo_Baitbot.png" /></img>
+    </div>
+
+    <div class="rightnavbar">
+      <a class="active" href="/index.html">Home</a>
+      <a class="inactive" href="/hallofshame.html">Hall of Shame</a>
+      <a class="inactive" href="/about.html">About</a>
+    </div>
+  </div>
+
+
+
+  <div class="logincontent">
+
+    <!-- ________________________LEFT BLOCK_________________________ -->
+    <div class="divleftblock">
+      <p class="loginheadline"><i>Baitbot</i> is an email <br> bot designed to waste scammers time.</p>
+      <p class="loginsubtext">
+        <g class="under">What are you?</g><br>I am a bot that answers scam emails.<br><br>
+        <g class="under">How do I use you?</g><br>Forward any scam mails you get to <g class="underBB">baitbot.ai@gmail.com</g> and use <g class="underBB">:BB:</g> at the start of the mails subject field. This bot only speaks english!<br><br>
+        <g class="under">What do you do?</g><br>I will try to pretend I’m a real person and reply to
+        the scammer for you, wasting the time they could use to scam real people.
+      </p>
+    </div>
+
+
+    <!-- ________________________RIGHT BLOCK________________________ -->
+    <div class="divrightblock">
+
+      <div class="submitwindow">
+        <p class="rightfieldheadline">Check your conversations</p>
+        <p class="rightfieldsubtext">After forwarding mail to Baitbot, we will send you an email with a code. Enter the code in the field below to check out  Baitbots chat with your scammer.</p>
+          <div class="submitwindowwhitebar">
+            <form action="/submit" method="post">
+              <input class="codefield" placeholder="Enter code here..." type="text" name="code">
+              <button class="codebutton" type="submit">Show Chat</button>
+            </form>
+         </div>
+      </div>
+
+      <div class="hallofshamewindow">
+        <p class="rightfieldheadline">Hall of Shame</p>
+        <p class="rightfieldsubtextshame">Have a look at the best exchanges Baitbot had with scammers.</p>
+        <button class="shamebutton" type="button" onclick="window.location.href = '/hallofshame.html'" >Take Me There!</button>
+      </div>
+    </div>
+
+
+  </div>
+  
+    <!-- ________________________BOTTOM BLOCK________________________ -->
+      <div class="logininformationbox">
+        <!-- <img class="linkicon" src="linkicon.svg" alt="LINK" width="50" height="50"> -->
+        <p class="githublinktextbold">Baitbot is still a work in progress.  </p> <p class="githublinktext">The project is open source on github, check it out <a href="https://github.com/">here!</a></p>
+      </div>
+
+
+
+</body>
+
+</html>

@@ -1,0 +1,198 @@
+body {
+  background-color: #FFF8E0;
+  background-image: url('https://cdn.glitch.com/c8712629-d3ad-4fa9-a510-e8b303ac5bf0%2FPattern.png?v=1595152616918');
+  background-size: cover;
+  width: auto;
+  max-width: 1400px;
+  margin: auto;
+  margin-top: auto;
+  overflow: scroll;
+  font-family: "Roboto";
+  font-size: 18px;
+}
+
+.logincontent {
+  background-color: #ffffff solid;
+  width: auto;
+}
+
+/* ________Box Navigationsbar________ */
+.navigationbar {
+  overflow: hidden;
+  margin: auto;
+  margin-top: 3vh;
+  margin-bottom: 3vh;
+  max-height: 80px;
+  top: 0px;
+  max-width: 1400px;
+  width: 100%;
+  position: relative;
+  border-radius: 10px;
+}
+
+/* ________Linke Hälfte der Navigationsbar________ */
+div.leftnavbar {
+  vertical-align: middle;
+  float: left;
+}
+
+/* ________Typo Logo________ */
+.botpic2 {
+  /* display: block; */
+  position: absolute;
+  margin-top: 28px;
+  margin-left: 8vw;
+  height: 16px;
+}
+
+/* ________Rechte Hälfte der Navigationsbar________ */
+div.rightnavbar {
+  /* padding-top: 20px;
+  padding-bottom: 20px; */
+  padding: 20px;
+  padding-right: 8vw;
+  float: right;
+}
+
+li {
+  right: 0px;
+  display: inline-block;
+  margin-left: 16px;
+}
+
+/* ________Navigationsbar Buttons________ */
+a.active {
+  color: #000000;
+  background: #EBF1F5;
+  font-family: "Roboto";
+  font-size: 14px;
+  font-weight: bold;
+  border-radius: 16px;
+  margin-left: 10px;
+  border: solid;
+  border-width: 2px;
+  border-color: #000000;
+  padding: 8px;
+  padding-left: 16px;
+  padding-right: 16px;
+  text-decoration: none;
+}
+
+a.inactive {
+  color: rgba(0, 0, 0, 1);
+  background: #ffffff;
+  font-family: "Roboto";
+  font-weight: bold;
+  font-size: 14px;
+  border-radius: 16px;
+  margin-left: 10px;
+  border: solid;
+  border-width: 2px;
+  padding: 8px;
+  padding-left: 16px;
+  padding-right: 16px;
+  text-decoration: none;
+}
+
+a.inactive:hover {
+  color: #FD83FF;
+  cursor: pointer;
+  transition: 0.2s;
+  text-decoration: none;
+}
+
+/* ________Text Headline "Your best and worst exchanges with scammers." Styling________ */
+h2.topic {
+  text-align: center;
+  color: #333333;
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 100%;
+  margin-top: 60px;
+}
+
+/* ________Styling für Liste________ */
+.whitebox {
+  position: relative;
+  margin: auto;
+  margin-top: 12vh;
+  width: 90%;
+  background: #EBF1F5;
+  border: solid;
+  border-width: 2px;
+  border-radius: 16px;
+  padding: 30px;
+}
+
+.whiteboxheader {
+  /* position: relative; */
+  width: auto;
+  height: 20px;
+  background: #ffffff;
+}
+
+.block {
+  display: flex;
+  position: relative;
+  padding: 10px;
+}
+
+.blockSubject {
+  display: flex;
+  position: relative;
+  padding: 10px;
+}
+
+.block a {
+  margin: 5px;
+  width: auto;
+}
+
+.subject {
+  text-align: left;
+  position: relative;
+  width: auto;
+  margin: auto;
+  margin-left: 0px;
+}
+
+.views {
+  text-align: center;
+  position: relative;
+  width: 10%;
+  right: 30%;
+  margin: 0px;
+  margin-left: 2vw;
+}
+
+.amount {
+  text-align: center;
+  position: absolute;
+  right: 15%;
+  width: 10%;
+  margin: 0px;
+  margin-left: 2vw;
+}
+
+.date {
+  text-align: center;
+  position: absolute;
+  right: 20px;
+  width: 10%;
+  margin: 0px;
+  margin-left: 2vw;
+}
+
+.block:hover {
+  font-weight: bolder;
+  cursor: pointer;
+  background: #ffffff;
+  border-radius: 8px;
+}
+
+.blockSubject#description {
+  font-weight: bold;
+  margin-bottom: 20px;
+  border-bottom: 2px dashed #000000;
+  padding: 16px;
+}
