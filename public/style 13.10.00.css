@@ -1,0 +1,280 @@
+.content {
+  max-width: 500px;
+  margin: auto;
+}
+
+.inputfield {
+  padding-bottom: 50px;
+  max-width: 500px;
+  align: center;
+  margin: auto;
+}
+
+/* h1 {
+  text-align: center;
+  color: #E75A5A;
+  margin-bottom: 5px;
+  margin-top: 5%;
+  font-weight: bold;
+  font-size: 40px
+}
+
+h2 {
+  text-align: center;
+  color: #E75A5A;
+  margin-bottom: 80px;
+  font-weight: normal;
+} */
+h1 {
+  text-align: center;
+  font-family: "Arial";
+  line-height: 1;
+  color: #303030;
+  font-size: 58px;
+  margin-bottom: 20px;
+  margin-top: 5vh;
+  font-weight: bolder;
+}
+
+h2 {
+  text-align: center;
+  font-family: "Roboto";
+  line-height: 1;
+  color: #E75A5A;
+  font-size: 28px;
+  margin-bottom: 10vh;
+  font-weight: 500;
+}
+
+body {
+  background-color: #E0E5EC;
+  font-family: 'Roboto', sans-serif;
+  color: #9fa2a7;
+  align: center;
+}
+
+main {
+  align: center;
+}
+
+body .timernextmessage {
+  margin: 20px;
+  text-align: center;
+}
+
+p#timer {
+  text-align: center;
+  font-family: "Roboto";
+  line-height: 1;
+  color: #E75A5A;
+  font-size: 30px;
+  margin-bottom: 10px;
+  margin-top: 10px;
+  font-weight: 600;
+}
+
+body .speechbubble1 {
+  background-color: #fff;
+  color: #000000;
+  font-size: 1em;
+  line-height: 1.75;
+  border-radius: 8px;
+  padding: 15px 25px;
+  margin-bottom: 75px;
+  cursor: default;
+  max-width: 450px;
+}
+
+body .speechbubble2 {
+  background-color: #fff;
+  color: #000000;
+  font-size: 1em;
+  line-height: 1.75;
+  border-radius: 8px;
+  padding: 15px 25px;
+  margin-bottom: 75px;
+  cursor: default;
+  max-width: 450px;
+}
+
+body .speechbubble1 {
+  border-left: 3px solid;
+  border-left-color: #E75A5A;
+}
+
+/* body .speechbubble0 {
+  border-left: 5px solid;
+  border-color: #E75A5A;
+  text-align: center;
+} */
+body .speechbubble2 {
+  border-right: 3px solid;
+  border-color: #82E871;
+}
+
+/* body .speechbubble1:after {
+  content: '';
+  margin-top: -30px;
+  position: relative;
+  bottom: 75px;
+  left: 20px;
+  border-width: 0 0 30px 30px;
+  border-style: solid;
+  border-color: #26272b transparent;
+  display: block;
+  width: 0;
+} */
+body .speechbubble2:after {
+  content: '';
+  margin-top: -30px;
+  padding-top: 0px;
+  position: relative;
+  bottom: -45px;
+  left: 85%;
+  border-width: 30px 30px 0 0;
+  border-style: solid;
+  border-color: #E0E5EC transparent;
+  display: block;
+  width: 0;
+}
+
+body .speechbubble1 p:before {
+  content: '';
+  font-family: Georgia;
+  font-size: 40px;
+  line-height: 0;
+  margin-right: 20px;
+  margin-left: -50px;
+  display: inline-block;
+  display: -webkit-inline-box;
+}
+
+body .speechbubble2 p:before {
+  content: '';
+  font-family: Georgia;
+  font-size: 40px;
+  line-height: 0;
+  margin-right: 20px;
+  margin-left: -50px;
+  display: inline-block;
+  display: -webkit-inline-box;
+}
+
+body .speechbubble1 .username {
+  display: inline;
+  padding-top: 20px;
+  font-style: italic;
+  float: right;
+  font-size: 0.8em;
+  color: #fff;
+}
+
+body .speechbubble2 .username {
+  display: inline;
+  padding-top: 20px;
+  font-style: italic;
+  float: left;
+  font-size: 0.8em;
+  color: #fff;
+}
+
+form {
+  background-color: #E0E5EC;
+  border-radius: 10px;
+  display: grid;
+  grid-gap: 3em;
+  margin-top: 10%;
+  margin-bottom: 3%;
+  width: 100%;
+  display: flex;
+}
+
+/* input {
+  text-align: center;
+  align: center;
+  max-width: 100%;
+  background-color: #fff;
+  border-radius: 5px;
+  display: block;
+  font-size: 16px;
+  margin-right: 5px;
+  padding: 5px;
+  width: 97%;
+} */
+input {
+  text-align: center;
+  outline: none;
+  display: block;
+  width: 80%;
+  height: auto;
+  max-width: inherit;
+  margin: auto;
+  padding: 10px 10px;
+  margin-top: 0px;
+  margin-bottom: 20px;
+  color: #E75A5A;
+  font-family: "Roboto";
+  font-size: 14px;
+  border-radius: 30px;
+  border-width: 0px;
+}
+
+/* ============================================== */
+/* BUTTON FOR SENDING OWN MESSAGE  */
+/* ============================================== */
+form button {
+  background-color: #E75A5A;
+  color: #E0E5EC;
+  border-radius: 30px;
+  height: 39px;
+  width: 39px;
+  border: 0px;
+  cursor: pointer;
+  font-size: inherit;
+  line-height: 1.8em;
+  max-width: relative;
+  max-height: 39px;
+}
+
+form button:hover {
+  background-color: #d41f1f;
+  color: #ffffff;
+  border-radius: 30px;
+  transition: .3s ease-in-out;
+  transform: scale(1.03);
+}
+
+form button:focus {
+  outline: 0;
+}
+
+/* ============================================== */
+
+
+p {
+  text-align: center;
+}
+
+a:-webkit-any-link {
+  background-color: #ffffff;
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-top: 5px;
+  padding-bottom: 7px;
+  border-radius: 20px;
+  text-align: center;
+  color: #9fa2a7;
+  cursor: pointer;
+  text-decoration: none;
+}
+
+p#timer {
+  text-align: center;
+  font-family: "Roboto";
+  line-height: 1;
+  color: #E75A5A;
+  font-size: 30px;
+  margin-bottom: 10px;
+  margin-top: 10px;
+  font-weight: 600;
+}

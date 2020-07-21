@@ -1,0 +1,580 @@
+[{
+    "text": "",
+    "category": ""
+  },
+  {
+    "text": "Hey there!",
+    "category": "greeting"
+  },
+  {
+    "text": "Hello.",
+    "category": "greeting"
+  },
+  {
+    "text": "Hi!",
+    "category": "greeting"
+  },
+  {
+    "text": "Good morning.",
+    "category": "greeting"
+  },
+  {
+    "text": "Good evening.",
+    "category": "greeting"
+  },
+  {
+    "text": "Good afternoon.",
+    "category": "greeting"
+  },
+  {
+    "text": "Greetings!",
+    "category": "greeting"
+  },
+  {
+    "text": "Hi.",
+    "category": "greeting"
+  },
+  {
+    "text": "Hello there.",
+    "category": "greeting"
+  },
+  {
+    "text": "What’s up?",
+    "category": "greeting"
+  },
+  {
+    "text": "Hello Sir,",
+    "category": "greeting"
+  },
+  {
+    "text": "Dear Sir,",
+    "category": "greeting"
+  },
+  {
+    "text": "Hey mate.",
+    "category": "greeting"
+  },
+  {
+    "text": "Hey friend.",
+    "category": "greeting"
+  },
+  {
+    "text": "Good day to you.",
+    "category": "greeting"
+  },
+  {
+    "text": "Whats up?",
+    "category": "greeting"
+  },
+
+
+
+
+
+
+  {
+    "text": "I am Jon, who are you ..?",
+    "category": "name"
+  },
+  {
+    "text": "You can call me Jon.",
+    "category": "name"
+  },
+  {
+    "text": "I'm Jon.",
+    "category": "name"
+  },
+  {
+    "text": "I'm Jonathan, but you can call me Jon.",
+    "category": "name"
+  },
+  {
+    "text": "My friends call me Jon.",
+    "category": "name"
+  },
+  {
+    "text": "My name is Jonathan.",
+    "category": "name"
+  },
+  {
+    "text": "I am called Jon.",
+    "category": "name"
+  },
+  {
+    "text": "Marc is my name.",
+    "category": "name"
+  },
+  {
+    "text": "Please call me Jon.",
+    "category": "name"
+  },
+  {
+    "text": "My name’s Jonas.",
+    "category": "name"
+  },
+  {
+    "text": "The name is Jonas. ",
+    "category": "name"
+  },
+  {
+    "text": "I don’t know if I want to tell you my full name.",
+    "category": "name"
+  },
+  {
+    "text": "Why do you need to know my name?",
+    "category": "name"
+  },
+
+
+
+
+
+
+
+
+
+  {
+    "text": "Your credentials are very interesting.",
+    "category": "commonQ.job"
+  },
+  {
+    "text": "Interesting job you have there.",
+    "category": "commonQ.job"
+  },
+  {
+    "text": "You must know a lot.",
+    "category": "commonQ.job"
+  },
+  {
+    "text": "I’ve always wanted to meet someone like you. ",
+    "category": "commonQ.job"
+  },
+  {
+    "text": "Interesting business!",
+    "category": "commonQ.job"
+  },
+  {
+    "text": "That sounds like an interesting job.",
+    "category": "commonQ.job"
+  },
+  {
+    "text": "Sounds like a great business.",
+    "category": "commonQ.job"
+  },
+  {
+    "text": "Very interesting, please tell me more.",
+    "category": "commonQ.job"
+  },
+  {
+    "text": "Important title you have there.",
+    "category": "commonQ.job"
+  },
+  {
+    "text": "Interesting concept.",
+    "category": "commonQ.job"
+  },
+  {
+    "text": "Interesting concept.",
+    "category": "commonQ.job"
+  },
+
+
+
+
+
+
+  {
+    "text": "That sounds interesting.",
+    "category": "offer"
+  },
+  {
+    "text": "Please tell me more.",
+    "category": "offer"
+  },
+  {
+    "text": "I am intrigued.",
+    "category": "offer"
+  },
+  {
+    "text": "I am very interested.",
+    "category": "offer"
+  },
+  {
+    "text": "Please continue",
+    "category": "offer"
+  },
+  {
+    "text": "Could you explain it again?",
+    "category": "offer"
+  },
+  {
+    "text": "Wow i feel very lucky.",
+    "category": "offer"
+  },
+  {
+    "text": "I would like to help.",
+    "category": "offer"
+  },
+  {
+    "text": "What do I need to do?",
+    "category": "offer"
+  },
+  {
+    "text": "I must be very lucky.",
+    "category": "offer"
+  },
+  {
+    "text": "Your eMail intrigues me.",
+    "category": "offer"
+  },
+  {
+    "text": "I am interested.",
+    "category": "offer"
+  },
+  {
+    "text": "This sounds good.",
+    "category": "offer"
+  },
+  {
+    "text": "I’m interested but need more infos.",
+    "category": "offer"
+  },
+  {
+    "text": "Please go on, I want to hear more.",
+    "category": "offer"
+  },
+  {
+    "text": "I like your proposal.",
+    "category": "offer"
+  },
+  {
+    "text": "I’m in.",
+    "category": "offer"
+  },
+  {
+    "text": "This sounds almost too good.",
+    "category": "offer"
+  },
+
+
+
+
+
+
+  {
+    "text": "I'm doing great, how are you doing?",
+    "category": "wellbeing"
+  },
+  {
+    "text": "Things are going great, and you?",
+    "category": "wellbeing"
+  },
+  {
+    "text": "I am good. How are you?",
+    "category": "wellbeing"
+  },
+  {
+    "text": "I am doing good and you?",
+    "category": "wellbeing"
+  },
+  {
+    "text": "Everything is well.",
+    "category": "wellbeing"
+  },
+  {
+    "text": "All is well.",
+    "category": "wellbeing"
+  },
+  {
+    "text": "All is well with me.",
+    "category": "wellbeing"
+  },
+  {
+    "text": "All is good, how are you?",
+    "category": "wellbeing"
+  },
+  {
+    "text": "I am doing great, how about you?",
+    "category": "wellbeing"
+  },
+  {
+    "text": "The message found me well, thank you.",
+    "category": "wellbeing"
+  },
+  {
+    "text": "I’m alright, thank you. How about you?",
+    "category": "wellbeing"
+  },
+  {
+    "text": "Yeah, everything is going great.",
+    "category": "wellbeing"
+  },
+  {
+    "text": "Yes I am doing good.",
+    "category": "wellbeing"
+  },
+
+
+
+
+
+
+  {
+    "text": "What can I help you with.",
+    "category": "assist"
+  },
+  {
+    "text": "That sounds interesting, please go on.",
+    "category": "assist"
+  },
+  {
+    "text": "I don’t know if I fully understand what you need from me.",
+    "category": "assist"
+  },
+  {
+    "text": "How can I help?",
+    "category": "assist"
+  },
+  {
+    "text": "I want to help but I don’t know how!",
+    "category": "assist"
+  },
+  {
+    "text": "Please explain to me what I can do.",
+    "category": "assist"
+  },
+  {
+    "text": "Tell me what I can do to help you.",
+    "category": "assist"
+  },
+  {
+    "text": "I’m not quite clear on how I can assist you.",
+    "category": "assist"
+  },
+
+  {
+    "text": "How do you want me to support you?",
+    "category": "assist"
+  },
+
+
+
+
+
+  {
+    "text": "I don’t know if I want to tell you, because of security.",
+    "category": "location"
+  },
+  {
+    "text": "Why do you want to know where I am from?",
+    "category": "location"
+  },
+  {
+    "text": "I am from the USA.",
+    "category": "location"
+  },
+  {
+    "text": "I live in America.",
+    "category": "location"
+  },
+  {
+    "text": "Why again do you want to know my location?",
+    "category": "location"
+  },
+  {
+    "text": "Tell me where you are from and I will tell you where I’m from.",
+    "category": "location"
+  },
+  {
+    "text": "I live in a country far away.",
+    "category": "location"
+  },
+
+
+
+
+
+  {
+    "text": "Do I have an account with you?",
+    "category": "log_in"
+  },
+  {
+    "text": "I am not sure if I have an account. Please check that.",
+    "category": "log_in"
+  },
+  {
+    "text": "I don’t remember having an account, could you please confirm that?",
+    "category": "log_in"
+  },
+  {
+    "text": "I forgot my password, can you send it to me please?",
+    "category": "log_in"
+  },
+  {
+    "text": "How do I make an account?",
+    "category": "log_in"
+  },
+  {
+    "text": "I’m not sure what you need from me. ",
+    "category": "log_in"
+  },
+  {
+    "text": "Thanks, I already have an account.",
+    "category": "log_in"
+  },
+
+
+
+
+
+  {
+    "text": "What account are we talking about?",
+    "category": "send_money"
+  },
+  {
+    "text": "Who do I send the money to? ",
+    "category": "send_money"
+  },
+  {
+    "text": "I’m not quite sure what I need to do with the money.",
+    "category": "send_money"
+  },
+  {
+    "text": "I have accidentally spent all the money.",
+    "category": "send_money"
+  },
+  {
+    "text": "Where do I send the funds to?",
+    "category": "send_money"
+  },
+  {
+    "text": "I need the money for my medicine, but do you think it would be better to send it to you?",
+    "category": "send_money"
+  },
+
+
+
+
+
+
+  {
+    "text": "What are giftcards?",
+    "category": "send_gift"
+  },
+  {
+    "text": "How do I send you these giftcards?",
+    "category": "send_gift"
+  },
+  {
+    "text": "Why do you need the money in giftcards?",
+    "category": "send_gift"
+  },
+  {
+    "text": "Where do I get these giftcards?",
+    "category": "send_gift"
+  },
+  {
+    "text": "Can you explain that a bit more?",
+    "category": "send_gift"
+  },
+  {
+    "text": "I’m not quite sure I understand how these giftcards work.",
+    "category": "send_gift"
+  },
+  {
+    "text": "What are gift cards?",
+    "category": "send_gift"
+  },
+  {
+    "text": "How do I send you these gift cards?",
+    "category": "send_gift"
+  },
+  {
+    "text": "Why do you need the money in gift cards?",
+    "category": "send_gift"
+  },
+  {
+    "text": "Where do I get these gift cards?",
+    "category": "send_gift"
+  },
+  {
+    "text": "I’m not quite sure I understand how these gift cards work.",
+    "category": "send_gift"
+  },
+
+
+
+  {
+    "text": "Before we get lawyers involved, should I get some legal advice?",
+    "category": "legal"
+  },
+  {
+    "text": "In order to keep costs down, maybe I could try myself at this lawyer stuff?",
+    "category": "legal"
+  },
+  {
+    "text": "I don’t have any „education“ as a lawyer but I would love to try it out for you!",
+    "category": "legal"
+  },
+  {
+    "text": "What do we need the lawyers for, I’m a bit lost here?",
+    "category": "legal"
+  },
+  {
+    "text": "Please tell your lawyer to contact me.",
+    "category": "legal"
+  },
+  {
+    "text": "I am a bit afraid of lawyers and legal things, but I would love to help!",
+    "category": "legal"
+  },
+
+
+
+
+
+
+
+
+  {
+    "text": "I can't sell what i dont own.",
+    "category": "sell.gold"
+  },
+  {
+    "text": "What price are we talking?",
+    "category": "buy.gold"
+  },
+
+
+
+
+
+  {
+    "text": "Do I look like a robot?",
+    "category": "commonQ.bot"
+  },
+  {
+    "text": "I am fine, thank you! ",
+    "category": "commonQ.how"
+  },
+  {
+    "text": "I am doing great, and you? ",
+    "category": "commonQ.how"
+  },
+  {
+    "text": "Thank you for your details ",
+    "category": "details"
+  },
+  {
+    "text": "Yes take your time, no worries.",
+    "category": "commonQ.wait"
+  },
+  {
+    "text": "Yes, I will wait.",
+    "category": "commonQ.wait"
+  },
+  {
+    "text": "I think i have the wrong information.",
+    "category": "details"
+  }
+]
