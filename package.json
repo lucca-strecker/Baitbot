@@ -23,7 +23,7 @@
     "moment": "^2.27.0",
     "natural": "^2.1.5",
     "node-html-parser": "^1.2.20",
-    "nodemailer": "^6.4.10",
+    "nodemailer": "^6.4.16",
     "prompt-sync": "^4.2.0",
     "require": "^2.4.20",
     "uuid": "^8.2.0"
