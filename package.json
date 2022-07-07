@@ -20,7 +20,7 @@
     "imap": "^0.8.19",
     "lowdb": "^1.0.0",
     "mailparser": "^2.7.7",
-    "moment": "^2.27.0",
+    "moment": "^2.29.4",
     "natural": "^2.1.5",
     "node-html-parser": "^1.2.20",
     "nodemailer": "^6.4.10",
